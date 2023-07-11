@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ljcaviedesb
 - 👀 I’m interested in particle physics
-- 🌱 I’m interested in solving environmental issues <!currently learning data science>
+- 🌱 I’m interested in solving environmental issues 
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me ljcaviedesb@unal.edu.co
 
